@@ -14,9 +14,4 @@ A dynamic and responsive Todo Management Application built with React.js and Tai
 - **Styling**: Tailwind CSS
 - **Icons**: React Icons
 - **Unique Task IDs**: UUID
-
-## Installation
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/todo-management-app.git
+![Screenshot 2025-01-07 112816](https://github.com/user-attachments/assets/4845362e-dd4d-4980-9b13-c52e99b4a8e9)
