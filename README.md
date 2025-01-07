@@ -1,8 +1,22 @@
-# React + Vite
+# Todo Management App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A dynamic and responsive Todo Management Application built with React.js and Tailwind CSS. This app allows users to manage daily tasks with features to add, edit, delete, and track task completion status. Data persistence is achieved through local storage.
 
-Currently, two official plugins are available:
+## Features
+- **Add, Edit, and Delete Tasks**: Manage tasks dynamically with an interactive UI.
+- **Task Status Tracking**: Mark tasks as completed and view their completion date/time.
+- **Local Storage Integration**: Ensures tasks persist even after closing the app.
+- **Responsive Design**: Optimized for various screen sizes using Tailwind CSS.
+- **Navigation**: Includes a navigation bar for seamless task management.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- **Frontend**: React.js
+- **Styling**: Tailwind CSS
+- **Icons**: React Icons
+- **Unique Task IDs**: UUID
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/todo-management-app.git
